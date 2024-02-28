@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "cls && python -u",
+        "powershell": "powershell -ExecutionPolicy ByPass -File",
+        "bat": "cmd /c",
+        "shellscript": "bash",
+    }
+}
